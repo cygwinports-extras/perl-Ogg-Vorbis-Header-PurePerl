@@ -1,0 +1,13 @@
+CPAN_AUTHOR=daniel
+inherit perl
+
+NAME="perl-Ogg-Vorbis-Header-PurePerl"
+VERSION=1.0
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl Ogg Vorbis header module"
+DESCRIPTION="An object-oriented interface to Ogg Vorbis information and comment
+fields, implemented entirely in Perl.  Intended to be a drop in replacement for
+Ogg::Vorbis::Header."
+
+ARCH=noarch
